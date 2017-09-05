@@ -1,0 +1,89 @@
+body {
+  font-family: monospace;
+
+}
+
+.navbar-brand{
+  color: #000;
+}
+
+
+
+.navbar {
+ margin-bottom: 0;
+ background-color: #fff;
+ border-radius: 0px;
+}
+
+li a{
+  color:#000;
+
+}
+
+
+
+
+.glyphicon {
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 50px;
+  font-size: 60px;
+  color:#000;
+}
+
+
+.glyphicon:hover{
+  color: #fff;
+  background-color: #000;
+}
+
+#about{
+  background-color: #222;
+  color: #fff;
+  height: 700px;
+  clip-path: polygon(0 0,100% 0,100% 90%,0 100%);
+}
+.about {
+  padding-top: 200px;
+}
+.about h2 {
+  font-size: 45px;
+}
+
+.about p{
+  font-size: 18px;
+}
+
+.mainphoto{
+  padding-top: 32px;
+}
+#passion {
+  height:600px;
+  /*transform: rotate(20deg);*/
+}
+
+.photography{
+  padding-top: 20px;
+  /*transform: rotate(-20deg);*/
+
+}
+.photography h2{
+  font-size: 45px;
+}
+.photography p{
+  font-size: 18px;
+}
+
+.footer {
+  background-color: #222;
+  color: white;
+  padding-top: 150px;
+  height: 400px;
+}
+.footer h2{
+  font-size: 45px;
+}
+.footer p{
+  padding: 5px;
+  font-size: 18px;
+}
